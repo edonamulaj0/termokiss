@@ -41,6 +41,18 @@
   .card-border {
     @apply border-4 border-black;
   }
+
+  .card-with-bottom-button {
+    @apply flex flex-col h-full;
+  }
+
+  .card-content {
+    @apply flex-grow;
+  }
+
+  .card-button {
+    @apply mt-auto;
+  }
   
   .numbered-badge {
     @apply bg-black text-white w-12 h-12 flex items-center justify-center font-black text-lg;

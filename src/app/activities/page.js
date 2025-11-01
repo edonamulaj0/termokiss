@@ -23,8 +23,8 @@ export default function Activities() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
             
             {/* Creative Workshops */}
-            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200">
-              <div className="flex items-start space-x-6">
+            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200 card-with-bottom-button">
+              <div className="flex items-start space-x-6 card-content">
                 <div className="numbered-badge">01</div>
                 <div className="flex-1">
                   <h3 className="bauhaus-heading text-2xl mb-4">CREATIVE WORKSHOPS</h3>
@@ -44,16 +44,18 @@ export default function Activities() {
                     <li className="uppercase text-sm tracking-wide">• PHOTOGRAPHY TECHNIQUES</li>
                     <li className="uppercase text-sm tracking-wide">• DIGITAL DESIGN COURSES</li>
                   </ul>
-                  <Link href="/contact" className="btn-primary text-xs">
-                    JOIN WORKSHOP
-                  </Link>
+                  <div className="card-button">
+                   <Link href="/contact" className="btn-primary text-xs mt-4">
+                   JOIN WORKSHOP
+                   </Link>
+                  </div>
                 </div>
               </div>
             </div>
 
             {/* Community Discussions */}
-            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200">
-              <div className="flex items-start space-x-6">
+            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200 card-with-bottom-button">
+              <div className="flex items-start space-x-6 card-content">
                 <div className="numbered-badge">02</div>
                 <div className="flex-1">
                   <h3 className="bauhaus-heading text-2xl mb-4">COMMUNITY DISCUSSIONS</h3>
@@ -73,16 +75,18 @@ export default function Activities() {
                     <li className="uppercase text-sm tracking-wide">• COMMUNITY PROBLEM SOLVING</li>
                     <li className="uppercase text-sm tracking-wide">• POLICY DISCUSSION GROUPS</li>
                   </ul>
-                  <Link href="/contact" className="btn-primary text-xs">
-                    JOIN DISCUSSION
-                  </Link>
+                  <div className="card-button">
+                    <Link href="/contact" className="btn-primary text-xs mt-4">
+                      JOIN DISCUSSION
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>
 
             {/* Cultural Events */}
-            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200">
-              <div className="flex items-start space-x-6">
+            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200 card-with-bottom-button">
+              <div className="flex items-start space-x-6 card-content">
                 <div className="numbered-badge">03</div>
                 <div className="flex-1">
                   <h3 className="bauhaus-heading text-2xl mb-4">CULTURAL EVENTS</h3>
@@ -102,16 +106,18 @@ export default function Activities() {
                     <li className="uppercase text-sm tracking-wide">• COMMUNITY FESTIVALS</li>
                     <li className="uppercase text-sm tracking-wide">• CULTURAL EXCHANGE EVENTS</li>
                   </ul>
-                  <Link href="/events" className="btn-primary text-xs">
-                    VIEW EVENTS
-                  </Link>
+                  <div className="card-button">
+                    <Link href="/events" className="btn-primary text-xs mt-4">
+                      VIEW EVENTS
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>
 
             {/* Educational Programs */}
-            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200">
-              <div className="flex items-start space-x-6">
+            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200 card-with-bottom-button">
+              <div className="flex items-start space-x-6 card-content">
                 <div className="numbered-badge">04</div>
                 <div className="flex-1">
                   <h3 className="bauhaus-heading text-2xl mb-4">EDUCATIONAL PROGRAMS</h3>
@@ -131,16 +137,18 @@ export default function Activities() {
                     <li className="uppercase text-sm tracking-wide">• PROFESSIONAL SKILL BUILDING</li>
                     <li className="uppercase text-sm tracking-wide">• COMMUNITY EDUCATION INITIATIVES</li>
                   </ul>
-                  <Link href="/contact" className="btn-primary text-xs">
-                    ENROLL NOW
-                  </Link>
+                  <div className="card-button">
+                    <Link href="/contact" className="btn-primary text-xs mt-4">
+                      ENROLL NOW
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>
 
             {/* Environmental Action */}
-            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200">
-              <div className="flex items-start space-x-6">
+            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200 card-with-bottom-button">
+              <div className="flex items-start space-x-6 card-content">
                 <div className="numbered-badge">05</div>
                 <div className="flex-1">
                   <h3 className="bauhaus-heading text-2xl mb-4">ENVIRONMENTAL ACTION</h3>
@@ -160,16 +168,18 @@ export default function Activities() {
                     <li className="uppercase text-sm tracking-wide">• ENVIRONMENTAL AWARENESS CAMPAIGNS</li>
                     <li className="uppercase text-sm tracking-wide">• GREEN TECHNOLOGY DISCUSSIONS</li>
                   </ul>
-                  <Link href="/contact" className="btn-primary text-xs">
-                    GET INVOLVED
-                  </Link>
+                  <div className="card-button">
+                    <Link href="/contact" className="btn-primary text-xs mt-4">
+                      GET INVOLVED
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>
 
             {/* Sports & Wellness */}
-            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200">
-              <div className="flex items-start space-x-6">
+            <div className="card-border bg-white text-black p-8 hover:scale-105 transition-transform duration-200 card-with-bottom-button">
+              <div className="flex items-start space-x-6 card-content">
                 <div className="numbered-badge">06</div>
                 <div className="flex-1">
                   <h3 className="bauhaus-heading text-2xl mb-4">SPORTS & WELLNESS</h3>
@@ -189,9 +199,11 @@ export default function Activities() {
                     <li className="uppercase text-sm tracking-wide">• MEDITATION & MINDFULNESS</li>
                     <li className="uppercase text-sm tracking-wide">• SPORTS TOURNAMENTS</li>
                   </ul>
-                  <Link href="/contact" className="btn-primary text-xs">
-                    JOIN ACTIVITIES
-                  </Link>
+                  <div className="card-button">
+                    <Link href="/contact" className="btn-primary text-xs mt-4">
+                      JOIN ACTIVITIES
+                    </Link>
+                  </div>
                 </div>
               </div>
             </div>

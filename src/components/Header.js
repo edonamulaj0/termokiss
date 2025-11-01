@@ -64,7 +64,7 @@ export default function Header() {
                 href={item.href}
                 className={`block nav-link border-b-4 border-black ${
                   pathname === item.href ? 'bg-black text-white' : ''
-                }`}
+                } ${item.name === 'CONTACT' ? 'mb-6' : ''}`}
                 onClick={() => setIsMenuOpen(false)}
               >
                 {item.name}

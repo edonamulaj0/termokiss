@@ -162,7 +162,7 @@ export default function Events() {
           {/* Events Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {currentEvents.map((event, index) => (
-              <div key={event.id} className="card-border bg-white text-black hover:scale-105 transition-transform duration-200">
+              <div key={event.id} className="card-border bg-white text-black hover:scale-105 transition-transform duration-200 card-with-bottom-button">
                 <div className="relative">
                   <Image
                     src={event.image}
@@ -179,7 +179,7 @@ export default function Events() {
                   </div>
                 </div>
                 
-                <div className="p-6">
+                <div className="p-6 card-content">
                   <div className="flex items-start space-x-4 mb-4">
                     <div className="bg-black text-white p-3 text-center min-w-[70px]">
                       <div className="text-xl font-black">{event.date}</div>
@@ -196,7 +196,9 @@ export default function Events() {
                   <p className="uppercase text-xs tracking-wide leading-relaxed mb-6">
                     {event.description}
                   </p>
-                  
+                </div>
+                
+                <div className="p-6 pt-0 card-button">
                   {activeTab === 'upcoming' ? (
                     <Link href="/contact" className="btn-primary text-xs">
                       REGISTER NOW

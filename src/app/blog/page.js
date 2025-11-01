@@ -100,7 +100,7 @@ export default function Blog() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {filteredPosts.map((post, index) => (
-              <div key={post.id} className="card-border bg-white hover:scale-105 transition-transform duration-200">
+              <div key={post.id} className="card-border bg-white hover:scale-105 transition-transform duration-200 card-with-bottom-button">
                 <div className="relative">
                   <Image
                     src={post.image}
@@ -114,7 +114,7 @@ export default function Blog() {
                   </div>
                 </div>
                 
-                <div className="p-6">
+                <div className="p-6 card-content">
                   <h3 className="bauhaus-heading text-lg mb-3">{post.title}</h3>
                   <div className="flex items-center space-x-2 mb-4 text-xs uppercase tracking-wide opacity-80">
                     <span>{post.author}</span>
@@ -126,6 +126,9 @@ export default function Blog() {
                   <p className="uppercase text-xs tracking-wide leading-relaxed mb-6">
                     {post.excerpt}
                   </p>
+                </div>
+                
+                <div className="p-6 pt-0 card-button">
                   <Link href={`/blog/${post.id}`} className="btn-primary text-xs">
                     READ MORE
                   </Link>
