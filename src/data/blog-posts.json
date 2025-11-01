@@ -1,0 +1,130 @@
+{
+  "featured": {
+    "id": "featured-2024-11",
+    "title": "TRANSFORMING COMMUNITIES THROUGH ART",
+    "excerpt": "HOW LOCAL ARTISTS ARE USING TERMOKISS AS A PLATFORM FOR SOCIAL CHANGE AND COMMUNITY ENGAGEMENT",
+    "content": [
+      "In the heart of Prishtina, artists gather weekly at Termokiss to create works that reflect our community's struggles and triumphs. This month, we witnessed an incredible transformation as local muralist Agim Krasniqi led a workshop teaching documentary photography techniques to youth from different backgrounds.",
+      "The workshop, held every Tuesday evening, brings together participants aged 16 to 65, each with their own story to tell through the lens. What started as a simple photography class has evolved into a powerful medium for social commentary and community dialogue.",
+      "\"Art has always been a universal language,\" explains Krasniqi, whose murals can be seen throughout Prishtina's city center. \"At Termokiss, we're not just teaching techniques – we're empowering people to document their reality and share their vision for change.\"",
+      "The participants' work will be displayed in our upcoming exhibition 'VOICES OF PRISHTINA' this December, showcasing how photography can bridge cultural divides and create understanding between different communities.",
+      "This initiative exemplifies Termokiss's core mission: providing a platform where community members can learn, create, and inspire change through collaborative effort and mutual support."
+    ],
+    "author": "DRITA GASHI",
+    "date": "NOVEMBER 1, 2024",
+    "readTime": "5 MIN READ",
+    "image": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=800&h=600&fit=crop",
+    "category": "workshops",
+    "tags": ["photography", "community", "art", "youth"]
+  },
+  "posts": [
+    {
+      "id": "community-forum-success",
+      "title": "COMMUNITY FORUM DRAWS RECORD ATTENDANCE",
+      "excerpt": "MONTHLY CIVIC ENGAGEMENT MEETING ADDRESSES URBAN DEVELOPMENT AND COMMUNITY NEEDS",
+      "content": [
+        "Last week's community forum at Termokiss marked a milestone in civic engagement, with over 80 participants joining the discussion on urban development and community priorities in Prishtina.",
+        "The forum, facilitated by community coordinator Mentor Shala, addressed key issues including public transportation improvements, green space development, and youth employment opportunities.",
+        "\"The energy in the room was incredible,\" noted Shala. \"We had city council members, local business owners, students, and long-time residents all contributing to solutions-focused discussions.\"",
+        "Key outcomes from the meeting include the formation of three working groups: Urban Green Spaces, Youth Employment Initiative, and Public Transportation Advocacy. Each group will meet monthly to develop actionable proposals.",
+        "The next community forum is scheduled for December 15th at 19:00, with a focus on winter community support programs and holiday cultural events."
+      ],
+      "author": "MENTOR SHALA",
+      "date": "OCTOBER 28, 2024",
+      "readTime": "3 MIN READ",
+      "image": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=800&h=600&fit=crop",
+      "category": "community",
+      "tags": ["civic engagement", "urban development", "community forums"]
+    },
+    {
+      "id": "digital-literacy-seniors",
+      "title": "SENIORS EMBRACE TECHNOLOGY IN NEW WORKSHOP",
+      "excerpt": "DIGITAL LITERACY PROGRAM HELPS BRIDGE THE TECHNOLOGY GAP FOR OLDER COMMUNITY MEMBERS",
+      "content": [
+        "Termokiss's new digital literacy program has become one of our most popular workshops, with seniors aged 60-80 learning essential computer skills and internet safety.",
+        "Led by volunteer instructor Albin Kurti, the program covers basic computer navigation, email communication, online banking safety, and video calling with family members.",
+        "\"I never thought I'd be sending emails to my grandchildren in Germany,\" shares participant Fatmir Berisha, 72. \"Now I video call them every week and share photos instantly.\"",
+        "The program runs every Thursday from 16:00-18:00 and is completely free. Each participant receives a printed manual in Albanian to take home for reference.",
+        "Due to high demand, we're expanding the program to include a second session on Saturdays, with plans to add smartphone basics and social media safety in the coming months."
+      ],
+      "author": "ALBIN KURTI",
+      "date": "OCTOBER 25, 2024",
+      "readTime": "4 MIN READ",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=800&h=600&fit=crop",
+      "category": "workshops",
+      "tags": ["digital literacy", "seniors", "technology", "education"]
+    },
+    {
+      "id": "music-night-highlights",
+      "title": "LOCAL MUSICIANS SHOWCASE ORIGINAL WORK",
+      "excerpt": "MONTHLY MUSIC NIGHT FEATURES EMERGING ARTISTS AND ORIGINAL COMPOSITIONS",
+      "content": [
+        "October's music night at Termokiss showcased the incredible talent of local musicians, featuring everything from traditional Albanian folk to contemporary experimental sounds.",
+        "The evening opened with acoustic performances by singer-songwriter Blerta Qosja, whose songs blend traditional melodies with contemporary social commentary.",
+        "\"Music has the power to unite communities,\" explains event coordinator Drita Gashi. \"Our music nights provide a platform for artists to share their work and connect with audiences in an intimate setting.\"",
+        "The highlight of the evening was a collaborative performance between classical violinist Arta Rama and electronic music producer DJ Kosova, creating a unique fusion that had the audience requesting an encore.",
+        "Next month's music night is scheduled for November 30th at 20:00, with a special focus on youth musicians under 25. Registration for performers is open until November 25th."
+      ],
+      "author": "DRITA GASHI",
+      "date": "OCTOBER 22, 2024",
+      "readTime": "3 MIN READ",
+      "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=800&h=600&fit=crop",
+      "category": "culture",
+      "tags": ["music", "performance", "local artists", "community events"]
+    },
+    {
+      "id": "urban-gardening-project",
+      "title": "COMMUNITY CREATES SUSTAINABLE FOOD GARDEN",
+      "excerpt": "COLLABORATIVE URBAN GARDENING PROJECT PROVIDES FRESH PRODUCE AND ENVIRONMENTAL EDUCATION",
+      "content": [
+        "Termokiss's urban gardening project has transformed an unused corner of our building into a thriving community garden that produces fresh vegetables and herbs year-round.",
+        "The project, initiated by environmental activist and volunteer coordinator Mentor Shala, now involves over 30 community members who contribute time and expertise.",
+        "\"This garden represents everything Termokiss stands for,\" explains Shala. \"Community cooperation, environmental responsibility, and practical education that benefits everyone involved.\"",
+        "The garden produces tomatoes, peppers, herbs, and leafy greens that are shared among volunteers and used in our community cooking workshops. Surplus produce is donated to local families in need.",
+        "Educational workshops on composting, sustainable gardening practices, and seasonal planting are held monthly, with the next session scheduled for November 12th focusing on winter growing techniques."
+      ],
+      "author": "MENTOR SHALA",
+      "date": "OCTOBER 20, 2024",
+      "readTime": "6 MIN READ",
+      "image": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=800&h=600&fit=crop",
+      "category": "environment",
+      "tags": ["urban gardening", "sustainability", "community cooperation", "environment"]
+    },
+    {
+      "id": "youth-leadership-workshop",
+      "title": "BUILDING LEADERSHIP SKILLS IN YOUNG PEOPLE",
+      "excerpt": "YOUTH EMPOWERMENT WORKSHOP FOCUSES ON LEADERSHIP DEVELOPMENT AND CIVIC ENGAGEMENT",
+      "content": [
+        "Termokiss's youth leadership workshop has graduated its third cohort of young leaders, aged 16-25, equipped with skills in project management, public speaking, and community organizing.",
+        "The intensive 8-week program covers leadership theory, practical organizing skills, budget management, and public communication, culminating in participants organizing their own community initiative.",
+        "\"These young people are the future of Kosovo's civil society,\" notes program facilitator Albin Kurti. \"We're not just teaching skills – we're empowering them to become agents of positive change in their communities.\"",
+        "This cohort's final projects included a neighborhood clean-up campaign, a peer tutoring program for high school students, and a digital storytelling workshop for elderly community members.",
+        "Applications for the next youth leadership cohort open in January 2025, with the program running from February through April. Information sessions will be held in December."
+      ],
+      "author": "ALBIN KURTI",
+      "date": "OCTOBER 18, 2024",
+      "readTime": "4 MIN READ",
+      "image": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&h=600&fit=crop",
+      "category": "workshops",
+      "tags": ["youth", "leadership", "civic engagement", "empowerment"]
+    },
+    {
+      "id": "cultural-exchange-celebration",
+      "title": "CELEBRATING DIVERSITY THROUGH SHARED STORIES",
+      "excerpt": "MONTHLY CULTURAL EXCHANGE EVENT BRINGS TOGETHER COMMUNITIES THROUGH STORYTELLING",
+      "content": [
+        "Termokiss's cultural exchange evening provided a platform for community members from different backgrounds to share their stories, traditions, and perspectives in a celebration of diversity.",
+        "The event featured storytelling in Albanian, Serbian, and English, with participants sharing personal narratives about migration, tradition, and building new communities in Prishtina.",
+        "\"Stories have the power to build bridges between communities,\" explains event organizer Drita Gashi. \"When we share our experiences, we discover our common humanity and shared hopes for the future.\"",
+        "Highlights included traditional music performances, poetry readings, and a collaborative cooking session where participants prepared dishes from their cultural backgrounds to share with the group.",
+        "The next cultural exchange evening is planned for November 28th, with a special focus on intergenerational storytelling, bringing together elder community members and youth to share wisdom and perspectives."
+      ],
+      "author": "DRITA GASHI",
+      "date": "OCTOBER 15, 2024",
+      "readTime": "5 MIN READ",
+      "image": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=800&h=600&fit=crop",
+      "category": "culture",
+      "tags": ["cultural exchange", "storytelling", "diversity", "community building"]
+    }
+  ]
+}
