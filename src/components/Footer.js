@@ -81,7 +81,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="border-t-4 border-white pt-8">
           <p className="uppercase text-sm tracking-wide text-center">
-            © 2024 TERMOKISS. ALL RIGHTS RESERVED. COMMUNITY-DRIVEN SINCE 2016.
+            © 2025 TERMOKISS. ALL RIGHTS RESERVED.
           </p>
         </div>
       </div>
